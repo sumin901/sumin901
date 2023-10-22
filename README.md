@@ -7,5 +7,5 @@
 <!---
 sumin901/sumin901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-Test
+Test 변경 완료
 --->
